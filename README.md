@@ -18,10 +18,6 @@
 
 ### 🏠 [Homepage](https://github.com/Willox25565/FileReverser)
 
-## Prerequisites
-
-- npm >=5.5.0
-- node >=9.3.0
 
 ## Usage
 
@@ -38,6 +34,3 @@ bash reverser.sh filename.txt
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
