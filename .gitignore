@@ -16,6 +16,17 @@
 *_LOCAL_*.txt
 *_REMOTE_*.txt
 
+### Text ###
+*.doc
+*.docx
+*.log
+*.msg
+*.pages
+*.rtf
+*.txt
+*.wpd
+*.wps
+
 ### Linux ###
 *~
 
