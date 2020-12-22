@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to FileReverser 👋</h1>
 
-<h3 This bush-script was made to help you reverse your txt-files in a few seconds. </h3>
+<h3 align="center">This bush-script was made to help you reverse your txt-files in a few seconds. </h3>
 
 ### 🏠 [Homepage](https://github.com/Willox25565/FileReverser)
 
